@@ -1,4 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.vectorsland.com/imgd/l7230-discovery-hd-theater-logo-96334.png" group-title="variedades",DISCOVERY THEATRE
-https://apsattv.com/ssungusa.m3u
+#EXTINF:0,AD ALMADA TV
+http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
+
+#EXTINF:0,AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+
+#EXTINF:0,ÁGUEDA TV
+http://agueda.tv:8080/hls/stream.m3u8
