@@ -1,3 +1,2 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="NasaTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png" group-title="CIENCIA",NASA TV HD
+#EXTINF:-1 tvg-id="NasaTV.us" tvg-logo="https://upload.wikimedia.org/..." group-title="CIENCIA",NASA TV HD
 https://ntvpublic.akamaized.net/hls/live/2025332/NTV-Public/master.m3u8
